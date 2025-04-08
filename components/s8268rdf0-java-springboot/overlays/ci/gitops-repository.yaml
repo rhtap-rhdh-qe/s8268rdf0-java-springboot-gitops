@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s8268rdf0-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s8268rdf0-java-springboot-gitops
